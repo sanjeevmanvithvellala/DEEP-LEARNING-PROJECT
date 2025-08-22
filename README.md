@@ -1,17 +1,5 @@
 # DEEP-LEARNING-PROJECT
 
-"COMPANY" : CODTECH IT SOLUTIONS
-
-"NAME" : Vellala Sanjeev Manvith
-
-"INTERN ID" : CT04DG1089
-
-"DOMAIN" : DATA SCIENCE
-
-"DURATION" : 4 WEEKS
-
-"MENTOR" : NEELA SANTOSH
-
 This project implements a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset using TensorFlow and Keras in Google Colab. The goal is to train a model that can accurately recognize 10 categories of real-world objects.
 
 ## Features
